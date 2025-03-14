@@ -1,7 +1,9 @@
 /*Win32-beginners
 File: message-box.cpp
 Date: 9th March 2025
-Author: SodaTheCoder*/
+Author: SodaTheCoder
+
+Note: In this file-based tutorial you will learn how to create message box*/
 
 //Include windows header
 #include <windows.h>

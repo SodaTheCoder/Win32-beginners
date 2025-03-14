@@ -3,7 +3,7 @@ File: simple-window.cpp
 Date: 9th March 2025
 Author: SodaTheCoder
 
-Note: In this file-based tutorial you wil learn how to create simple window*/
+Note: In this file-based tutorial you will learn how to create simple window*/
 
 #include <windows.h>
 
