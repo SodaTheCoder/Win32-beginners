@@ -4,7 +4,7 @@ Date: 14th March 2025
 Author: SodaTheCoder
 
 Note: In this file-based tutorial you will learn how to create button in window
-Note2: Code for creating parent window is the same.*/
+Note2: Code for creating parent window is same as in previous file.*/
 
 #include <windows.h>
 #define ID_BUTTTON 101
